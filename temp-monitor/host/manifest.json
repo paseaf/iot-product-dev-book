@@ -5,7 +5,7 @@
 		"$(MODDABLE)/modules/network/mdns/manifest.json",
 		"$(MODDABLE)/modules/crypt/tls.json",
 		"$(MODULES)/pins/analog/manifest.json",
-		"$(MODDABLE)/modules/files/file/manifest.json",
+		"$(MODDABLE)/modules/files/file/manifest.json"
 	],
 	"creation": {
 		"keys": {
@@ -37,14 +37,14 @@
 		"digest",
 		"logical",
 		"mqtt",
-		"preference",
+		"preference"
 	],
 	"platforms": {
 		"esp32": {
 			"modules": {
 				"*": [
 					"$(MODULES)/files/flash/*",
-					"$(MODULES)/files/flash/esp32/*",
+					"$(MODULES)/files/flash/esp32/*"
 				]
 			}
 		}
