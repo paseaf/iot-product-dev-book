@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="deb36643-768e-43ea-9dd8-57256ede7968" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/iot-product-dev-book.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/base/example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/base/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/bubble_sort/example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/bubble_sort/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/fibonacci_iterative/bin/esp32/release/fibonacci_iterative/fibonacci_iterative.xsa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/fibonacci_iterative/example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/fibonacci_iterative/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/fibonacci_iterative/tmp/esp32/release/fibonacci_iterative/check.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/fibonacci_iterative/tmp/esp32/release/fibonacci_iterative/files/check.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/fibonacci_iterative/tmp/esp32/release/fibonacci_iterative/files/example.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/fibonacci_iterative/tmp/esp32/release/fibonacci_iterative/files/mod/config.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/fibonacci_iterative/tmp/esp32/release/fibonacci_iterative/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/fibonacci_iterative/tmp/esp32/release/fibonacci_iterative/mc.format.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/fibonacci_iterative/tmp/esp32/release/fibonacci_iterative/mc.rotation.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/fibonacci_iterative/tmp/esp32/release/fibonacci_iterative/mod.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/fibonacci_recursive/bin/esp32/release/fibonacci_recursive/fibonacci_recursive.xsa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/fibonacci_recursive/example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/fibonacci_recursive/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/fibonacci_recursive/tmp/esp32/release/fibonacci_recursive/check.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/fibonacci_recursive/tmp/esp32/release/fibonacci_recursive/files/check.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/fibonacci_recursive/tmp/esp32/release/fibonacci_recursive/files/example.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/fibonacci_recursive/tmp/esp32/release/fibonacci_recursive/files/mod/config.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/fibonacci_recursive/tmp/esp32/release/fibonacci_recursive/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/fibonacci_recursive/tmp/esp32/release/fibonacci_recursive/mc.format.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/fibonacci_recursive/tmp/esp32/release/fibonacci_recursive/mc.rotation.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/fibonacci_recursive/tmp/esp32/release/fibonacci_recursive/mod.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/hello_world/example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/hello_world/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/helloworld/bin/esp32/release/helloworld/helloworld.xsa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/helloworld/tmp/esp32/release/helloworld/check.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/helloworld/tmp/esp32/release/helloworld/files/check.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/helloworld/tmp/esp32/release/helloworld/files/example.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/helloworld/tmp/esp32/release/helloworld/files/mod/config.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/helloworld/tmp/esp32/release/helloworld/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/helloworld/tmp/esp32/release/helloworld/mc.format.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/helloworld/tmp/esp32/release/helloworld/mc.rotation.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/helloworld/tmp/esp32/release/helloworld/mod.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/bin/esp32/instrument/host/bootloader.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/bin/esp32/instrument/host/partition-table.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/bin/esp32/instrument/host/xs_esp32.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/bin/esp32/instrument/host/xs_esp32.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/bin/esp32/instrument/host/xs_esp32.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/Resource.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/Resource.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/Resource.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/loadmod.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/loadmod.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/loadmod.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/mc.bleservices.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/mc.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/mc.defines.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/mc.format.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/mc.resources.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/mc.resources.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/mc.resources.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/mc.rotation.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/mc.xs.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/mc.xs.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/mc.xs.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/mc.xs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/modInstrumentation.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/modInstrumentation.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/modInstrumentation.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/modInstrumentation.h.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/modLwipSafe.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/modLwipSafe.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/modLwipSafe.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/modLwipSafe.h.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/modTime.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/modTime.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/modTime.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/modTimer.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/modTimer.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/modTimer.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/modTimer.h.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/modules/Resource.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/modules/instrumentation.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/modules/loadmod.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/modules/main.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/modules/mc.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/modules/mc/config.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/modules/time.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/modules/timer.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/timer.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/timer.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/timer.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/xsHost.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/xsHost.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/xsPlatform.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1-gettingstarted/host/tmp/esp32/instrument/host/xsPlatform.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hosts/host/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hosts/host/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hosts/minimal_host/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hosts/minimal_host/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hosts/tricolor-led-pwm/example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hosts/tricolor-led-pwm/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/bin/esp32/instrument/host/bootloader.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/bin/esp32/instrument/host/partition-table.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/bin/esp32/instrument/host/xs_esp32.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/bin/esp32/instrument/host/xs_esp32.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/bin/esp32/instrument/host/xs_esp32.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/Resource.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/Resource.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/Resource.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/analog.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/analog.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/analog.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/bin.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/bin.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/bin.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/chacha.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/chacha.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/chacha.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/chacha.h.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/ec.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/ec.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/ec.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/fips180.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/fips180.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/fips180.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/fips180.h.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/fips197.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/fips197.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/fips197.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/fips197.h.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/fips46.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/fips46.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/fips46.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/fips46.h.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/flash.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/flash.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/flash.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/ghash.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/ghash.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/ghash.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/ghash.h.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/kcl.h.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/kcl_symmetric.h.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/loadmod.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/loadmod.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/loadmod.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/mc.bleservices.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/mc.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/mc.defines.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/mc.format.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/mc.resources.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/mc.resources.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/mc.resources.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/mc.rotation.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/mc.xs.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/mc.xs.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/mc.xs.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/mc.xs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modBase64.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modBase64.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modBase64.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modCrypt.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modCrypt.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modCrypt.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modFile.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modFile.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modFile.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modHex.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modHex.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modHex.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modInstrumentation.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modInstrumentation.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modInstrumentation.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modInstrumentation.h.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modLogical.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modLogical.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modLogical.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modLwipSafe.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modLwipSafe.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modLwipSafe.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modLwipSafe.h.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modNet.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modNet.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modNet.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modResolve.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modResolve.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modResolve.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modSocket.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modSocket.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modSocket.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modSocket.h.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modTime.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modTime.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modTime.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modTimer.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modTimer.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modTimer.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modTimer.h.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/moddnsparser.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/moddnsparser.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/moddnsparser.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modsecuresocket.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modsecuresocket.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modsecuresocket.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modsntp.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modsntp.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modsntp.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modular.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modular.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modular.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/Resource.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/base64.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/ber.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/bin.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/crypt.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/curve.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/dns.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/dns/parser.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/dns/serializer.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/dsa.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/ec.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/ecdsa.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/ecp.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/file.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/flash.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/gcm.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/hex.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/hmac.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/http.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/instrumentation.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/loadmod.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/logical.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/main.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/mc.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/mc/config.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/mdns.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/modular.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/mont.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/mqtt.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/mqttserver.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/net.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/pins/analog.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/pkcs1.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/pkcs1_5.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/pkcs8.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/rng.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/rsa.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/securesocket.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/setup/network.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/sntp.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/socket.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/ssl/alert.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/ssl/cache.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/ssl/cert.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/ssl/changecipher.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/ssl/ciphersuites.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/ssl/constants.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/ssl/handshake.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/ssl/prf.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/ssl/record.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/ssl/session.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/ssl/setup.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/ssl/stream.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/time.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/timer.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/websocket.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/wifi.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/modules/x509.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/mont.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/mont.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/mont.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/rc.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/rc.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/rc.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/rc.h.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/resources/ca.ski" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/resources/ca.subject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/rfc1321.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/rfc1321.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/rfc1321.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/rfc1321.h.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/rng.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/rng.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/rng.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/timer.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/timer.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/timer.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/x509.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/x509.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/x509.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/xs6wifi.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/xs6wifi.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/xs6wifi.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/xsBigIntEx.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/xsBigIntEx.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/xsBigIntEx.c.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/xsBigIntEx.h.xsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/xsHost.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/xsHost.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/xsPlatform.c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/host/tmp/esp32/instrument/host/xsPlatform.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/mod/bin/esp32/release/mod/mod.xsa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/mod/example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/mod/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/mod/tmp/esp32/release/mod/check.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/mod/tmp/esp32/release/mod/files/ca107.der" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/mod/tmp/esp32/release/mod/files/check.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/mod/tmp/esp32/release/mod/files/example.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/mod/tmp/esp32/release/mod/files/mod/config.xsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/mod/tmp/esp32/release/mod/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/mod/tmp/esp32/release/mod/mc.format.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/mod/tmp/esp32/release/mod/mc.rotation.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-monitor/mod/tmp/esp32/release/mod/mod.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1-gettingstarted/helloworld/example.js" beforeDir="false" afterPath="$PROJECT_DIR$/ch1-gettingstarted/helloworld/example.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3-network/http-get/example.js" beforeDir="false" afterPath="$PROJECT_DIR$/ch3-network/http-get/example.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3-network/wifi-code/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/ch3-network/wifi-code/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1kcTaEAjcHSBgALmGWhN5s6eYUj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="deb36643-768e-43ea-9dd8-57256ede7968" name="Default Changelist" comment="" />
+      <created>1605998940561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605998940561</updated>
+      <workItem from="1605998941580" duration="1141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

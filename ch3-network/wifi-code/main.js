@@ -13,10 +13,11 @@
  */
 
 import WiFi from "wifi";
+import Net from "net";
 
 let wifiMonitor = new WiFi({
-        ssid: "my wi-fi",
-        password: "secret"
+        ssid: "Holy",
+        password: "1234@NB.com"
     },
     function(msg) {
         switch (msg) {
@@ -26,6 +27,11 @@ let wifiMonitor = new WiFi({
 
             case WiFi.connected:
                 trace("connected\n");
+                trace(`SSID: ${Net.get("SSID")}\n`);
+                trace(`IP: ${Net.get("IP")}\n`);
+                trace(`MAC: ${Net.get("MAC")}\n`);
+                trace(`BSSID: ${Net.get("BSSID")}\n`);
+                trace(`RSSI: ${Net.get("RSSI")}\n`);
                 break;
 
             case WiFi.disconnected:

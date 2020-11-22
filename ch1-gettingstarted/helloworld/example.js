@@ -12,6 +12,5 @@
  *
  */
 
-debugger;
-let message = "Hello, World";
-trace(message + "\n");
+var str = 'Hello, world!';
+trace(str + '\n');

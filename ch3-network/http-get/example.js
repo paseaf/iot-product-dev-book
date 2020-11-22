@@ -15,9 +15,9 @@
 import {Request} from "http";
 
 let request = new Request({
-	host: "www.example.com",
+	host: "api.github.com",
 	path: "/",
-	response: String
+	response: JSON
 });
 
 request.callback = function(msg, value) {
