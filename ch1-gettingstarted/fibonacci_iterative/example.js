@@ -23,5 +23,5 @@ function fibonacci (num) {
   }
   return fn_2 + fn_1;
 }
-var result = fibonacci(7);
+var result = fibonacci(22);
 trace(result + '\n');

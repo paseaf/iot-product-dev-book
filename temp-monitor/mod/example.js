@@ -30,7 +30,7 @@ function storeTemp (temp) {
   var content = '[' + date.toUTCString() + ']\t' + temp + ' °C\n';
 
   var file = new File(root + logFileName, true);
-  file.write(content);
+  file.write(content); // overwrite the current file
   file.close();
 }
 
@@ -42,23 +42,24 @@ function postJSON (data) {
     path: '/temperature',
     method: 'POST',
     headers: [
-      'Content-Type', 'application/json'
+      'Content-Type', 'application/json',
+      'Content-Length', content.length
     ],
     body: content,
     response: String
   };
 
   var req = new Request(options);
-
-  req.callback = function (msg, value) {
-    if (msg === Request.responseComplete) {
-      trace(value + '\n');
+  req.callback = function (msg, status) {
+    if (msg === Request.status) {
+      trace('Response status: ' + status + '\n');
     }
   };
 }
 
 function measureAndUpdateTemp () {
   var adcValue = Analog.read(7);
+
   var temperature = convertADCToTemp(adcValue);
   trace('Current temperature: ' + temperature.toFixed(2) + ' °C\n');
 

@@ -50,18 +50,5 @@
 		}
 	},
 	"strip": [
-		"Atomics",
-		"BigInt",
-		"eval",
-		"Function",
-		"Generator",
-		"Map",
-		"Proxy",
-		"Reflect",
-		"RegExp",
-		"Set",
-		"SharedArrayBuffer",
-		"WeakMap",
-		"WeakSet"
 	]
 }
