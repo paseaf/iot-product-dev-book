@@ -1,6 +1,6 @@
 {
 	"include": [
-		"$(MODDABLE)/examples/manifest_base.json"
+		"$(MODDABLE)/examples/manifest_non_iot_base.json"
 	],
 	"defines": {
 		"XS_MODS": 1
